@@ -1,0 +1,114 @@
+body {
+margin:0;   
+background-color: #d6d927;
+    text-align: center;
+    font-family: 'Work Sans', sans-serif;
+   color: #454545;
+    font-size: 18px;
+}
+section {
+    padding: 2em 2em 1.75em;
+    width: 45em;
+    margin: 0 auto 2em;
+    max-width: 100%;
+    background-color: #ffffff;
+}
+#horizontal-line {
+    border: solid  #4e186b 1px;
+
+}
+ul {
+max-width: 550px;
+    margin:0 auto;
+    text-align: left;
+}
+li {
+    margin: 10px;
+
+}
+#image {
+    width: 80%;
+    height: 80%;
+    padding: 50px 50px 5px 50px;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+justify-content: center;
+  max-width: 80%;
+  display: block;
+  height: auto;
+  width: auto;
+}
+#title {
+    text-align: center;
+    padding: 20px;
+   font-family: 'Cinzel', serif;
+     color: #3e2f13;
+    text-decoration-line: none;
+    font-size: 60px;
+    
+}
+#img-caption {
+    font-size: 15px;
+    font-style: italic;
+}
+#img-source {
+  font-size: 12px;
+  color:  #4e186b;
+  padding: 0px 0px 20px 0px;
+}
+#tribute-info {
+    padding: 
+    text-decoration: none;
+    color: #3e2f13;
+}
+.vertical-line {
+    border-left: 4px solid #4e186b;
+  height: 80px;
+  position: relative;
+  left: 50%;
+  margin-left: -3px;
+  top: 0;
+}
+.rc_content {
+  text-align: center; 
+  padding-left:14px; 
+  font-family: 'Work Sans', sans-serif; 
+  margin-top: 100px;  
+  color:  #4e186b;
+}
+blockquote {
+  display: block;
+  border-width: 2px 0;
+  border-style: solid;
+  border-color: #eee;
+  padding: 1.5em 0 0.5em;
+  margin: 1.5em 0;
+  position: relative;
+}
+blockquote:before {
+  content: '\201C';
+  position: absolute;
+  top: 0em;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background: #fff;
+  width: 3rem;
+  height: 2rem;
+  font: 6em/1.08em 'PT Sans', sans-serif;
+  color: #4e186b;
+  text-align: center;
+}
+blockquote:after {
+  content: "\2013 \2003" attr(cite);
+  display: block;
+  text-align: right;
+  font-size: 0.875em;
+  color: #4e186b;
+}
+.arrow {
+  font-size: 100px;
+  color: #4e186b;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
