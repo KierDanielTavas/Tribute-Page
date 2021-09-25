@@ -1,6 +1,6 @@
 body {
 margin:0;   
-background-color: #d6d927;
+background-color: #FDB927;
     text-align: center;
     font-family: 'Work Sans', sans-serif;
    color: #454545;
@@ -96,7 +96,7 @@ blockquote:before {
   width: 3rem;
   height: 2rem;
   font: 6em/1.08em 'PT Sans', sans-serif;
-  color: #4e186b;
+  color: #552583;
   text-align: center;
 }
 blockquote:after {
@@ -106,9 +106,4 @@ blockquote:after {
   font-size: 0.875em;
   color: #4e186b;
 }
-.arrow {
-  font-size: 100px;
-  color: #4e186b;
-  margin-top: 0px;
-  margin-bottom: 0px;
-}
+
